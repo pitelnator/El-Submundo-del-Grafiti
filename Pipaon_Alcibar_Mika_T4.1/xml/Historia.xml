@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/Historia-XSLT.xsl"?>
+<Historia>
+
+    <Palabra>
+        <Titulo>Etimología</Titulo>
+        <descripcion>
+        La palabra grafiti proviene del italiano "graffiti", que es el plural de "graffito". 
+        Este término deriva del verbo italiano "graffiare", que significa "rayar" o "arañar". 
+        Originalmente, se usaba para describir inscripciones o dibujos grabados en paredes, 
+        como los encontrados en las ruinas de la Antigua Roma y Pompeya. Con el tiempo, el 
+        término evolucionó y comenzó a asociarse con el arte urbano moderno, especialmente 
+        con los movimientos surgidos en ciudades como Nueva York en la década de 1970.
+        </descripcion>
+    </Palabra>
+
+    <Antiguedad>
+        <Titulo>Orígenes del grafiti</Titulo>
+
+        <etapa>
+            <titulo>Antigüedad</titulo>
+            <descripcion>
+            El origen del grafiti se remonta a las antiguas civilizaciones. En el Imperio Romano y la ciudad de Pompeya, 
+            se encontraron inscripciones grabadas en las paredes con mensajes políticos, declaraciones de amor y sátiras. 
+            Estas marcas eran una forma de comunicación popular entre la gente común.
+            </descripcion>
+        </etapa>
+        
+        <etapa>
+            <titulo>Edad Media y Renacimiento</titulo>
+            <descripcion>
+            Durante la Edad Media, el grafiti fue menos común, pero aún se podían encontrar inscripciones talladas en 
+            iglesias y fortalezas. En el Renacimiento, algunos artistas y viajeros dejaron su firma en monumentos 
+            históricos, registrando su paso por distintas ciudades.
+            </descripcion>
+        </etapa>
+        
+        <etapa>
+            <titulo>Siglo XIX y principios del XX</titulo>
+            <descripcion>
+            Con el auge de los movimientos obreros y revolucionarios, el grafiti comenzó a utilizarse como una herramienta 
+            de protesta. En algunos países, las paredes se llenaron de mensajes políticos y reivindicaciones sociales. 
+            Durante las guerras mundiales, los soldados dejaban inscripciones en búnkeres y edificios destruidos.
+            </descripcion>
+        </etapa>
+        
+        <etapa>
+            <titulo>Década de 1970 - Auge del grafiti moderno</titulo>
+            <descripcion>
+            El grafiti tal como se conoce hoy en día tuvo su explosión en Nueva York durante los años 70. Jóvenes 
+            comenzaron a plasmar sus nombres en las paredes y vagones del metro, dando origen al "tagging". Con el tiempo, 
+            evolucionó en estilos más elaborados, como los murales y el "wildstyle". Esta etapa marcó la vinculación del 
+            grafiti con la cultura hip-hop.
+            </descripcion>
+        </etapa>
+        
+        <etapa>
+            <titulo>Actualidad</titulo>
+            <descripcion>
+            En la actualidad, el grafiti ha evolucionado en diferentes formas. Existen artistas urbanos reconocidos 
+            mundialmente que exponen sus obras en galerías, mientras que otros continúan con el grafiti callejero como 
+            forma de expresión. A pesar de que en muchos lugares sigue siendo ilegal, ha sido aceptado como un arte urbano 
+            legítimo en numerosas ciudades.
+            </descripcion>
+        </etapa>
+            
+    </Antiguedad>
+
+    <Pintadas_Famosas>
+        <Titulo>Pintadas Famosas</Titulo>
+
+        <pintada>
+            <titulo>Grafitis de Pompeya</titulo>
+            <descripcion>
+            En las ruinas de Pompeya, se han encontrado inscripciones que datan del siglo I d.C. 
+            Estas pintadas incluyen mensajes políticos, sátiras, declaraciones de amor e incluso 
+            publicidad de espectáculos en la arena. Son un testimonio de cómo la escritura en 
+            paredes ha sido una forma de comunicación desde la antigüedad.
+            </descripcion>
+        </pintada>
+
+        <pintada>
+            <titulo>Kilroy was here</titulo>
+            <descripcion>
+            Durante la Segunda Guerra Mundial, los soldados aliados popularizaron la frase 
+            "Kilroy was here" acompañada de un dibujo de un personaje asomando sobre una línea. 
+            Este grafiti apareció en numerosos lugares del mundo y se convirtió en un símbolo de 
+            la presencia militar estadounidense.
+            </descripcion>
+        </pintada>
+
+        <pintada>
+            <titulo>Muro de Berlín</titulo>
+            <descripcion>
+            Antes de su caída en 1989, el Muro de Berlín fue un enorme lienzo de protesta y arte. 
+            Mientras que el lado oriental estaba fuertemente vigilado y sin marcas, el lado occidental 
+            estaba cubierto de mensajes políticos y murales que simbolizaban la lucha por la libertad 
+            y la resistencia contra la opresión.
+            </descripcion>
+        </pintada>
+
+        <pintada>
+            <titulo>Banksy - Niño con globo</titulo>
+            <descripcion>
+            Uno de los grafitis más famosos del artista Banksy, "Niño con globo" representa a un niño 
+            que extiende su mano hacia un globo rojo en forma de corazón. Esta obra, pintada en Londres, 
+            ha sido interpretada como un símbolo de esperanza y pérdida. Banksy es conocido por sus 
+            mensajes políticos y su identidad anónima.
+            </descripcion>
+        </pintada>
+
+        <pintada>
+            <titulo>Graffiti de Mayo del 68</titulo>
+            <descripcion>
+            Durante las protestas estudiantiles y obreras en Francia en mayo de 1968, muchas paredes de 
+            París fueron cubiertas con frases revolucionarias como "La imaginación al poder" y 
+            "Prohibido prohibir". Estos grafitis se convirtieron en símbolos de lucha y resistencia contra 
+            el sistema.
+            </descripcion>
+        </pintada>
+
+    </Pintadas_Famosas>
+
+    <Modernidad>
+        <Titulo>Grafiti en la Actualidad</Titulo>
+
+        <intro>
+            En la actualidad, el grafiti ha evolucionado hasta convertirse en una de las expresiones 
+            artísticas urbanas más influyentes del mundo. Lo que alguna vez fue considerado únicamente 
+            como un acto de vandalismo, hoy es reconocido en muchas ciudades como una forma legítima 
+            de arte y protesta social.
+        </intro>
+
+        <tema>
+            <titulo>Grafiti como arte urbano</titulo>
+            <descripcion>
+            Muchas ciudades han comenzado a valorar el grafiti como una manifestación cultural y artística. 
+            En algunos casos, se han destinado espacios específicos donde los artistas pueden plasmar sus 
+            obras de manera legal, como en el barrio de Wynwood en Miami o en la East Side Gallery en Berlín. 
+            Además, artistas como Banksy han logrado llevar el grafiti a galerías y subastas de arte, 
+            consolidándolo dentro del mundo del arte contemporáneo.
+            </descripcion>
+        </tema>
+
+        <tema>
+            <titulo>Grafiti y activismo social</titulo>
+            <descripcion>
+            A lo largo de los años, el grafiti ha sido una herramienta de protesta social y política. 
+            Mensajes contra la injusticia, el racismo y la corrupción aparecen en las calles de muchas 
+            ciudades. Durante movimientos como Black Lives Matter o las protestas en América Latina, 
+            los grafitis han servido para amplificar las voces de quienes buscan cambios en la sociedad.
+            </descripcion>
+        </tema>
+
+        <tema>
+            <titulo>Grafiti y su impacto en la sociedad</titulo>
+            <descripcion>
+            Aunque el grafiti ha sido históricamente perseguido y catalogado como una actividad clandestina, 
+            su presencia en el paisaje urbano es innegable. Lejos de ser un simple acto de vandalismo, 
+            muchos grafiteros ven en sus creaciones una forma de comunicación con la sociedad, una voz que 
+            expresa lo que muchas veces no tiene espacio en los medios convencionales.  
+            <br/><br/>
+            Su capacidad para transformar espacios olvidados en murales llenos de significado demuestra 
+            que el grafiti no solo es una manifestación artística, sino también una herramienta de cambio. 
+            Desde sus orígenes, ha sido un lenguaje de los inconformes, un símbolo de resistencia y una 
+            forma de devolverle la identidad a las calles. Más que una simple pintura sobre un muro, 
+            el grafiti es una expresión de libertad que continúa evolucionando y dejando su huella 
+            en la historia urbana.
+            </descripcion>
+        </tema>
+
+    </Modernidad>
+
+</Historia>
