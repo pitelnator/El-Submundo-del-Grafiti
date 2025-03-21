@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/Artistas-XSLT.xsl"?>
+<Artistas>
+
+    <grafitero nombre="Jean-Michel Basquiat">
+        <origen>Estados Unidos (Nueva York)</origen>
+        <estilo>Combina graffiti, arte primitivo y pintura expresionista.</estilo>
+        <descripcion>
+            Jean-Michel Basquiat comenzó su carrera artística como parte 
+            del movimiento de graffiti en Nueva York en los años 70 bajo el alias SAMO. 
+            Su estilo único fusionaba el graffiti con influencias de arte contemporáneo 
+            y de la cultura afroamericana. A pesar de haber iniciado como un grafitero, 
+            Basquiat alcanzó fama mundial como pintor en la escena del arte contemporáneo.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="Banksy">
+        <origen>Reino Unido</origen>
+        <estilo>Arte urbano con fuerte mensaje político, social y satírico.</estilo>
+        <descripcion>
+            Banksy es uno de los grafiteros más famosos y misteriosos del mundo. 
+            Su identidad real sigue siendo desconocida, lo que ha alimentado su leyenda. 
+            Se ha destacado por sus obras cargadas de crítica social y política, a menudo sobre 
+            temas como la guerra, la pobreza, el consumismo y los derechos humanos.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="Keith Haring">
+        <origen>Estados Unidos (Pensilvania)</origen>
+        <estilo>Graffiti pop, arte de línea y figuras geométricas.</estilo>
+        <descripcion>
+            Keith Haring fue un artista y activista que ganó fama en Nueva York en 
+            los años 80. Su estilo de líneas simples y figuras humanas contorneadas lo hizo muy 
+            popular. Además de ser un influyente grafitero, Haring usó su arte para apoyar causas 
+            sociales, como la lucha contra el VIH/SIDA y la defensa de los derechos civiles.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="Taki 183">
+        <origen>Estados Unidos (Nueva York)</origen>
+        <estilo>Tagging.</estilo>
+        <descripcion>
+            Taki 183 fue uno de los primeros grafiteros en ganar notoriedad en Nueva York 
+            durante la década de 1970. Su apodo, que proviene de su nombre y número de calle, fue una 
+            de las primeras firmas conocidas en el mundo del graffiti. Taki 183 popularizó el tagging, 
+            una forma de grafiti en la que los artistas escriben sus nombres rápidamente en paredes y 
+            otros objetos públicos.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="Lady Pink">
+        <origen>Ecuador/Estados Unidos (Nueva York)</origen>
+        <estilo>Graffiti de estilo "wildstyle".</estilo>
+        <descripcion>
+            Lady Pink es una de las primeras mujeres grafiteras en ganar reconocimiento en un 
+            campo predominantemente masculino. Comenzó su carrera en Nueva York en los años 70 y fue 
+            influenciada por el "wildstyle", un estilo que mezcla letras de manera compleja. Su arte 
+            también tiene un enfoque feminista y empoderante, destacándose tanto por su destreza técnica 
+            como por sus representaciones visuales que reflejan el empoderamiento femenino y la lucha social.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="RETNA">
+        <origen>Estados Unidos (Los Ángeles)</origen>
+        <estilo>Letras estilizadas con influencia de la caligrafía.</estilo>
+        <descripcion>
+            RETNA, nacido Marquis Lewis, es conocido por su estilo único de graffiti, 
+            que utiliza formas de letras que parecen estar basadas en caligrafía árabe, africana y 
+            otras culturas. Su arte está influenciado por su entorno en Los Ángeles y se ha expuesto 
+            en galerías internacionales.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="Shepard Fairey">
+        <origen>Estados Unidos (Carolina del Sur)</origen>
+        <estilo>Arte pop, propaganda política y muralismo.</estilo>
+        <descripcion>
+            Shepard Fairey es conocido por su famoso cartel de "Hope" con la imagen de 
+            Barack Obama, y por su marca Obey Giant. Fairey utiliza imágenes populares, como el retrato 
+            de André the Giant, y las transforma en obras de arte que cuestionan el poder y la cultura 
+            de consumo. Su trabajo ha tenido un gran impacto tanto en las calles como en el mundo del 
+            arte comercial.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="Futura (anteriormente Futura 2000)">
+        <origen>Estados Unidos (Nueva York)</origen>
+        <estilo>Abstracto, geométrico, futurista.</estilo>
+        <descripcion>
+            Futura es conocido por su estilo único que mezcla el graffiti con elementos 
+            del arte abstracto. Fue uno de los primeros artistas en hacer el salto del graffiti de las 
+            calles a las galerías de arte. Su estilo se distingue por la utilización de formas geométricas, 
+            líneas fluídas y colores vibrantes.
+        </descripcion>
+    </grafitero>
+
+    <grafitero nombre="Os Gemeos">
+        <origen>Brasil</origen>
+        <estilo>Graffiti surrealista y de estilo fantástico.</estilo>
+        <descripcion>
+            Os Gemeos es el nombre de los gemelos brasileños Gustavo y Otávio Pandolfo, quienes 
+            comenzaron su carrera como grafiteros en las calles de São Paulo. Su estilo es muy distintivo, 
+            con figuras de personas amarillas que se asemejan a los dibujos animados. Su arte es una mezcla 
+            de cultura brasileña, surrealismo y el estilo visual del graffiti.
+        </descripcion>
+    </grafitero>
+
+</Artistas>
